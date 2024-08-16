@@ -8,8 +8,7 @@ const Offers = () => {
       <div className="offers-left">
         <h1>Exclusive Offers for You</h1>
         
-        <p>Best Sellers</p>
-        <button>Check Now</button>
+        
       </div>
       <div className="offers-right">
         <img src={exclusive_image} alt="" />
